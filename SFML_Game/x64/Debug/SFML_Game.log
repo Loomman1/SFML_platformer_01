@@ -1,0 +1,28 @@
+﻿  SFML_Game.cpp
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(153,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(160,26): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(190,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(192,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(199,38): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(204,39): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(279,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(290,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(295,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(299,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  SFML_Game.vcxproj -> C:\Users\User\source\repos\SFML_Game\x64\Debug\SFML_Game.exe

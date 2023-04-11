@@ -1,0 +1,2 @@
+﻿  SFML_Game.cpp
+C:\Users\User\source\repos\SFML_Game\SFML_Game\SFML_Game.cpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
