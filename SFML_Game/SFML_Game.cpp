@@ -3,6 +3,7 @@
 #include <SFML/OpenGL.hpp>
 #include <iostream>
 //test comment for github
+//second test comment
 #ifndef GL_SRGB8_ALPHA8
 #define GL_SRGB8_ALPHA8 0x8C43
 #endif
