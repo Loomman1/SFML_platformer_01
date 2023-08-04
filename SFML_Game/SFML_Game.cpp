@@ -2,7 +2,7 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/OpenGL.hpp>
 #include <iostream>
-
+//test comment for github
 #ifndef GL_SRGB8_ALPHA8
 #define GL_SRGB8_ALPHA8 0x8C43
 #endif
@@ -28,14 +28,14 @@ String TileMap[h]
 	"B                            B                                                                                      B",
 	"B                       0000 B                                                                                      B",
 	"B                            B                                                                                      B",
-	"B                            B                                                                                      B",
+	"B                            B                                        00                                            B",
 	"B                            B                                                                                      B",
 	"B                            B         B                                                                            B",
 	"B       000            BBBBBBB         B                                                                            B",
 	"BBBB                                   B                                                                            B",
 	"B                                      B                                                                            B",
-	"B               BB                     B    000                                                                     B",
-	"B               BB                     B                                                                            B",
+	"B               BB                     B    000                                           BB                        B",
+	"B               BB                     B                                                  BB                        B",
 	"B               BB                     B             BB                                   BB                        B",
 	"BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB           B",
 	"B                            B                                                                                      B",
@@ -44,15 +44,15 @@ String TileMap[h]
 	"B                            B                                                                                      B",
 	"B                            B                                                                                      B",
 	"B       000            BBBBBBB                                                                                BBBBBBB",
-	"BBBB                                                                                                B               B",
+	"BBBB                                                                                                                B",
 	"B                                                                                                                   B",
 	"B                                                                                                                   B",
 	"B                                                                                                                   B",
-	"B                                                                                                                   B",
-	"B                                                                                                                   B",
+	"B                                                                                                       B           B",
+	"B                                                                                                       B           B",
 	"B               BB                                                                                      B           B",
 	"B               BB                                   BB                                   BB            B           B",
-	"BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB",
+	"BB       BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB",
 	"B                            B                                                                                      B",
 	"B                            B                                                                                      B",
 	"B                            B                                                                                      B",
